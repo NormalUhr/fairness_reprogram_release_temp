@@ -7,13 +7,13 @@ Despite a surge of recent advances in promoting machine Learning (ML) fairness, 
 We also provide both theoretical and empirical explanation on why fairness reprogramming can work. An illustration of the empirical evidence is shown below. The fairness-promoting trigger can transfer the model's attention from bias-related features to useful features.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/demo.png?token=GHSAT0AAAAAABZI6W4MSECXWF6M2AVBJDHMY2AV32Q" alt="drawing" width="70%"/>
+<img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/demo.png?token=GHSAT0AAAAAABZI6W4MSECXWF6M2AVBJDHMY2AV32Q" alt="drawing" width="60%"/>
 </p>
 
 The theoretical explanation is summarized in the figure below.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/why.png?token=GHSAT0AAAAAABZI6W4MAQ5H4OAZKEAAGFL2Y2AWJ5Q" alt="drawing" width="70%"/>
+<img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/why.png?token=GHSAT0AAAAAABZI6W4MAQ5H4OAZKEAAGFL2Y2AWJ5Q" alt="drawing" width="90%"/>
 </p>
 
 ## What is in this repository?
