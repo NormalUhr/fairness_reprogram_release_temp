@@ -6,15 +6,15 @@ Despite a surge of recent advances in promoting machine Learning (ML) fairness, 
 
 We also provide both theoretical and empirical explanation on why fairness reprogramming can work. An illustration of the empirical evidence is shown below. The fairness-promoting trigger can transfer the model's attention from bias-related features to useful features.
 
-<center>
+<div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/demo.png?token=GHSAT0AAAAAABZI6W4MSECXWF6M2AVBJDHMY2AV32Q" alt="drawing" width="70%"/>
-</center>
+</div>
 
 The theoretical explanation is summarized in the figure below.
 
-<center>
+<div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/NormalUhr/fairness_reprogram_release_temp/master/figures/why.png?token=GHSAT0AAAAAABZI6W4MAQ5H4OAZKEAAGFL2Y2AWJ5Q" alt="drawing" width="70%"/>
-</center>
+</div>
 
 ## What is in this repository?
 This repository contains the codes and commands to perform fairness reprogramming on the computer vision classification task. In particular, this repository provides three methods to train the model on the [CelebA dataset](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html), namely standard training, fairness-adversarial training, and fairness reprogramming. We will introduce these methods with more details below. 
